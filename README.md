@@ -72,7 +72,7 @@ pulkit-jain1-heritage-hands/
 
 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/heritage-hands.git
+git clone https://github.com/Pulkit-Jain1/heritage-hands.git
 cd heritage-hands
 ```
 
